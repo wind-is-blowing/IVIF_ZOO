@@ -160,7 +160,7 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
             <th>Aspects<br>(分类)</th>
             <th>Methods<br>(方法)</th>
             <th>Title<br>(标题)</th>
-            <th>Venue<br>(期刊)</th>
+            <th>Venue<br>(发表场所)</th>
             <th>Source<br>(资源)</th>
         </tr>
     </thead>
@@ -427,7 +427,7 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
                     <th>Aspects<br>(分类)</th>
                     <th>Methods<br>(方法)</th>
                     <th>Title<br>(标题)</th>
-                    <th>Venue<br>(期刊)</th>
+                    <th>Venue<br>(发表场所)</th>
                     <th>Source<br>(资源)</th>
                 </tr>
             </thead>
@@ -561,7 +561,7 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
             <th>Aspects<br>(分类)</th>
             <th>Methods<br>(方法)</th>
             <th>Title<br>(标题)</th>
-            <th>Venue<br>(期刊)</th>
+            <th>Venue<br>(发表场所)</th>
             <th>Source<br>(资源)</th>
         </tr>
     </thead>
