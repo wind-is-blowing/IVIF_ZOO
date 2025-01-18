@@ -27,12 +27,12 @@ The diagram of infrared and visible image fusion for practical applications. Exi
   - [数据兼容方法 (Data Compatible)](#数据兼容方法data-compatible)
   - [面向应用方法 (Application-oriented)](#面向应用方法application-oriented)
 - [评价指标 (Evaluation Metric)](#评价指标evaluation-metric)
-###  [🔥🚀资源库 (Resource Library)](#资源库resource-library)
-  - [融合 (Fusion)](#融合fusion)
-  - [分割 (Segmentation)](#分割segmentation)
-  - [检测 (Detection)](#检测detection)
+###  [🔥🚀资源库 (Resource Library)](#资源库resource-library)  
+`It covers all results of our survey paper, available for download from Baidu Cloud.`
+  - 💥[融合 (Fusion)](#融合fusion) 
+  - ✂️[分割 (Segmentation)](#分割segmentation) `Based on SegFormer`
+  - 🔍[检测 (Detection)](#检测detection) `Based on YOLO-v5`
   - [计算效率 (Computational Efficiency)](#计算效率computational-efficiency)
-
 # 数据集(Datasets)
 <table>
     <thead>
