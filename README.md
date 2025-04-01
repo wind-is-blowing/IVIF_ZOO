@@ -681,6 +681,13 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
             <td>TPAMI ‘24</td>
             <td><a href="https://ieeexplore.ieee.org/abstract/document/10480582">Paper</a>/<a href="https://github.com/LiuZhu-CV/TIMFusion">Code</a></td>
         </tr>
+        <tr>
+            <td>Perception</td>
+            <td>SAGE</td>
+            <td>Every SAM Drop Counts: Embracing Semantic Priors for Multi-Modality Image Fusion and Beyond</td>
+            <td>CVPR ‘25</td>
+            <td><a href="https://arxiv.org/pdf/2503.01210">Paper</a>/<a href="https://github.com/RollingPlain/SAGE_IVIF">Code</a></td>
+        </tr>
     </tbody>
 </table>
 
