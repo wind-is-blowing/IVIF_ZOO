@@ -280,6 +280,14 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
             <td><a href="https://ieeexplore.ieee.org/abstract/document/10041783/">Paper</a>/<a href="https://github.com/jinxiqinghuan/TCGAN">Code</a></td>
         </tr>
         <tr>
+        <tr>
+            <td>GAN</td>
+            <td>DCFusion</td>
+            <td>DCFusion: A Dual-Frequency Cross-Enhanced Fusion Network for Infrared and Visible Image Fusion</td>
+            <td>TIP '23</td>
+            <td><a href="https://ieeexplore.ieee.org/abstract/document/10102546">Paper</a></td>
+        </tr>
+        <tr>
             <td>GAN</td>
             <td>FreqGAN</td>
             <td>Freqgan: Infrared and visible image fusion via unified frequency adversarial learning</td>
@@ -334,6 +342,13 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
             <td>Dif-fusion: Towards high color fidelity in infrared and visible image fusion with diffusion models</td>
             <td>TIP '23</td>
             <td><a href="https://ieeexplore.ieee.org/abstract/document/10286359/">Paper</a>/<a href="https://github.com/GeoVectorMatrix/Dif-Fusion">Code</a></td>
+        </tr>
+        <tr>
+            <td>CNN</td>
+            <td>L2Net</td>
+            <td>L2Net: Infrared and Visible Image Fusion Using Lightweight Large Kernel Convolution Network</td>
+            <td>TIP '23</td>
+            <td><a href="https://ieeexplore.ieee.org/abstract/document/10301581">Paper</a>/<a href="https://github.com/chang-le-11/L2Net">Code</a></td>
         </tr>
         <tr>
             <td>CNN</td>
@@ -419,6 +434,13 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
             <td>JAS '24</td>
             <td></td>
         </tr>
+        <tr>
+            <td>Transformer</td>
+            <td>MaeFuse</td>
+            <td>MaeFuse: Transferring Omni Features With Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training</td>
+            <td>TIP '25</td>
+            <td><a href="https://arxiv.org/pdf/2404.11016">Paper</a>/<a href="https://github.com/Henry-Lee-real/MaeFuse">Code</a></td>
+        </tr>
     </tbody>
 </table>
 
@@ -482,6 +504,13 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
             <td>Semantics lead all: Towards unified image registration and fusion from a semantic perspective</td>
             <td>InfFus ‘23</td>
             <td><a href="https://www.sciencedirect.com/science/article/pii/S1566253523001513">Paper</a>/<a href="https://github.com/xiehousheng/SemLA">Code</a></td>
+        </tr>
+        <tr>
+            <td>Registration</td>
+            <td>-</td>
+            <td>A Deep Learning Framework for Infrared and Visible Image Fusion Without Strict Registration</td>
+            <td>IJCV ‘23</td>
+            <td><a href="https://link.springer.com/article/10.1007/s11263-023-01948-x">Paper</a></td>
         </tr>
         <tr>
             <td>Attack</td>
@@ -552,6 +581,13 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
             <td>Image fusion via vision-language model</td>
             <td>ICML ‘24</td>
             <td><a href="https://arxiv.org/abs/2402.02235">Paper</a>/<a href="https://github.com/Zhaozixiang1228/IF-FILM">Code</a></td>
+        </tr>
+        <tr>
+            <td>General</td>
+            <td>VDMUFusion</td>
+            <td>VDMUFusion: A Versatile Diffusion Model-Based Unsupervised Framework for Image Fusion</td>
+            <td>TIP ‘24</td>
+            <td><a href="https://ieeexplore.ieee.org/abstract/document/10794610">Paper</a>/<a href="https://github.com/yuliu316316/VDMUFusion">Code</a></td>
         </tr>
     </tbody>
 </table>
