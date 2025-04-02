@@ -379,13 +379,6 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
             <td><a href="https://www.sciencedirect.com/science/article/pii/S1566253523001860">Paper</a>/<a href="https://github.com/Linfeng-Tang/PSFusion">Code</a></td>
         </tr>
         <tr>
-            <td>CNN</td>
-            <td>SAGE</td>
-            <td>Every SAMDrop Counts: Embracing Semantic Priors for Multi-Modality Image Fusion and Beyond</td>
-            <td>CVPR '25</td>
-            <td><a href="https://arxiv.org/pdf/2503.01210">Paper</a>/<a href="https://github.com/RollingPlain/SAGE_IVIF">Code</a></td>
-        </tr>
-        <tr>
             <td>Transformer</td>
             <td>SwinFusion</td>
             <td>Swinfusion: Cross-domain long-range learning for general image fusion via swin transformer</td>
