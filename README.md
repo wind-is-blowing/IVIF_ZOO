@@ -284,7 +284,7 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
             <td>GAN</td>
             <td>DCFusion</td>
             <td>DCFusion: A Dual-Frequency Cross-Enhanced Fusion Network for Infrared and Visible Image Fusion</td>
-            <td>TIP '23</td>
+            <td>TIM '23</td>
             <td><a href="https://ieeexplore.ieee.org/abstract/document/10102546">Paper</a></td>
         </tr>
         <tr>
