@@ -123,7 +123,7 @@ def PSNR_function(A, B, F):
     MSE_BF = torch.mean((F - B) ** 2)
 
     MSE = 0.5 * MSE_AF + 0.5 * MSE_BF
-    PSNR = 20 * torch.log10(255 / torch.sqrt(MSE))
+    PSNR = 20 * torch.log10(1 / torch.sqrt(MSE))
 
     return PSNR
 
