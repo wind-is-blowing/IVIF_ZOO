@@ -406,6 +406,20 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
             <td>InfFus '23</td>
             <td><a href="https://www.sciencedirect.com/science/article/pii/S1566253523001860">Paper</a>/<a href="https://github.com/Linfeng-Tang/PSFusion">Code</a></td>
         </tr>
+         <tr>
+        <td>CNN</td>
+        <td>LUT-Fuse</td>
+        <td>LUT-Fuse: Towards Extremely Fast Infrared and Visible Image Fusion via Distillation to Learnable Look-Up Tables</td>
+        <td>ICCV '25</td>
+        <td><a href="https://arxiv.org/abs/2509.00346">Paper</a>/<a href="https://github.com/zyb5/LUT-Fuse">Code</a></td>
+    </tr>
+        <tr>
+        <td>CNN</td>
+        <td>PMAINet</td>
+        <td>Progressive Modality-Adaptive Interactive Network for Multi-Modality Image Fusion</td>
+        <td>IJCAI '25</td>
+        <td><a href="https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/1791.pdf">Paper</a></td>
+    </tr>
         <tr>
             <td>Transformer</td>
             <td>SwinFusion</td>
