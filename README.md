@@ -758,6 +758,83 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
             <td>CVPR ‘25</td>
             <td><a href="https://arxiv.org/pdf/2503.01210">Paper</a>/<a href="https://github.com/RollingPlain/SAGE_IVIF">Code</a></td>
         </tr>
+             <tr>
+            <td>Perception</td>
+            <td>DCEvo</td>
+            <td>DCEvo: Discriminative Cross-Dimensional Evolutionary Learning for Infrared and Visible Image Fusion</td>
+            <td>CVPR ‘25</td>
+            <td><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Liu_DCEvo_Discriminative_Cross-Dimensional_Evolutionary_Learning_for_Infrared_and_Visible_Image_CVPR_2025_paper.html">Paper</a>/<a href="https://github.com/Beate-Suy-Zhang/DCEvo">Code</a></td>
+        </tr>
+        <tr>
+            <td>Perception</td>
+            <td>TDFusion</td>
+            <td>Task-driven Image Fusion with Learnable Fusion Loss</td>
+            <td>CVPR ‘25</td>
+            <td><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Bai_Task-driven_Image_Fusion_with_Learnable_Fusion_Loss_CVPR_2025_paper.html">Paper</a>/<a href="https://github.com/HaowenBai/TDFusion">Code</a></td>
+        </tr>
+        <tr>
+            <td>Perception</td>
+            <td>EVIF</td>
+            <td>Event-based Visible and Infrared Fusion via Multi-task Collaboration </td>
+            <td>CVPR ‘24</td>
+            <td><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Geng_Event-based_Visible_and_Infrared_Fusion_via_Multi-task_Collaboration_CVPR_2024_paper.html">Paper</a>/<a href="https://github.com/NetaPanda/EVIF">Code</a></td>
+        </tr>
+        <tr>
+            <td>Perception</td>
+            <td>MMAIF</td>
+            <td>MMAIF: Multi-task and Multi-degradation All-in-One for Image Fusion with Language Guidance</td>
+            <td>ICCV ‘25</td>
+            <td><a href="https://arxiv.org/abs/2503.14944">Paper</a>/<a href="https://github.com/294coder/MMAIF">Code</a></td>
+        </tr>
+        <tr>
+            <td>Perception</td>
+            <td>HDCFN</td>
+            <td>HDCFN: Haze Distribution-aware Cross-modal Fusion Network for Infrared-guided Dense Haze Removal in UAVs</td>
+            <td>ACM MM ‘25</td>
+            <td><a href="https://cis.temple.edu/~jiewu/research/publications/Publication_files/MM_2025_UAV_CR.pdf">Paper</a></td>
+        </tr>
+        <tr>
+            <td>Perception</td>
+            <td>CMFS</td>
+            <td>CMFS: CLIP-Guided Modality Interaction for Mitigating Noise in Multi-Modal Image Fusion and Segmentation</td>
+            <td>IJCAI ‘25</td>
+            <td><a href="https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2440.pdf">Paper</a>/<a href="https://github.com/SuGuilin/IJCAI2025-CMFS">Code</a></td>
+        </tr>
+        <tr>
+            <td>Perception</td>
+            <td>A²RNet</td>
+            <td>A²RNet: Adversarial Attack Resilient Network for Robust Infrared and Visible Image Fusion</td>
+            <td>AAAI ‘25</td>
+            <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/32504">Paper</a>/<a href="https://github.com/lok-18/A2RNet">Code</a></td>
+        </tr>
+        <tr>
+            <td>Perception</td>
+            <td>SDSFusion</td>
+            <td>SDSFusion: A Semantic-Aware Infrared and Visible Image Fusion Network for Degraded Scenes</td>
+            <td>TIP ‘25</td>
+            <td><a href="https://ieeexplore.ieee.org/abstract/document/11014600">Paper</a>/<a href="https://github.com/Liling-yang/SDSFusion">Code</a></td>
+        </tr>        
+        <tr>
+            <td>Perception</td>
+            <td>S4Fusion</td>
+            <td>S4Fusion: Saliency-Aware Selective State Space Model for Infrared and Visible Image Fusion</td>
+            <td>TIP ‘25</td>
+            <td><a href="https://ieeexplore.ieee.org/document/11062462">Paper</a>/<a href="https://github.com/zipper112/S4Fusion">Code</a></td>
+        </tr>  
+        <tr>
+            <td>Perception</td>
+            <td>FreeFusion</td>
+            <td>FreeFusion: Infrared and Visible Image Fusion via Cross Reconstruction Learning</td>
+            <td>TPAMI ‘25</td>
+            <td><a href="https://ieeexplore.ieee.org/abstract/document/11010882">Paper</a></td>
+        </tr>  
+        <tr>
+            <td>Perception</td>
+            <td>MulFS-CAP</td>
+            <td>MulFS-CAP: Multimodal Fusion-Supervised Cross-Modality Alignment Perception for Unregistered Infrared-Visible Image Fusion</td>
+            <td>TPAMI ‘25</td>
+            <td><a href="https://ieeexplore.ieee.org/document/10856402">Paper</a>/<a href="https://github.com/YR0211/MulFS-CAP">Code</a></td>
+        </tr>  
     </tbody>
 </table>
 
