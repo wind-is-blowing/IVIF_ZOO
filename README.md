@@ -483,13 +483,6 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
             <td>TIP '25</td>
             <td><a href="https://arxiv.org/pdf/2404.11016">Paper</a>/<a href="https://github.com/Henry-Lee-real/MaeFuse">Code</a></td>
         </tr>
-         <tr>
-        <td>Transformer</td>
-        <td>GIFNet</td>
-        <td>One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion</td>
-        <td>CVPR '25</td>
-        <td><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_One_Model_for_ALL_Low-Level_Task_Interaction_Is_a_Key_CVPR_2025_paper.html">Paper</a>/<a href="https://github.com/AWCXV/GIFNet">Code</a></td>
-    </tr>
     <tr>
         <td>Transformer</td>
         <td>Fusion with Language-driven</td>
@@ -659,6 +652,13 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
            <td>CVPR '24</td>
            <td><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Probing_Synergistic_High-Order_Interaction_in_Infrared_and_Visible_Image_Fusion_CVPR_2024_paper.pdf">Paper</a>/<a href="https://github.com/zheng980629/SHIP">Code</a></td>
         </tr>
+              <tr>
+        <td>Transformer</td>
+        <td>GIFNet</td>
+        <td>One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion</td>
+        <td>CVPR '25</td>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_One_Model_for_ALL_Low-Level_Task_Interaction_Is_a_Key_CVPR_2025_paper.html">Paper</a>/<a href="https://github.com/AWCXV/GIFNet">Code</a></td>
+    </tr>
     </tbody>
 </table>
 
@@ -785,13 +785,6 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
             <td>MMAIF: Multi-task and Multi-degradation All-in-One for Image Fusion with Language Guidance</td>
             <td>ICCV ‘25</td>
             <td><a href="https://arxiv.org/abs/2503.14944">Paper</a>/<a href="https://github.com/294coder/MMAIF">Code</a></td>
-        </tr>
-        <tr>
-            <td>Perception</td>
-            <td>HDCFN</td>
-            <td>HDCFN: Haze Distribution-aware Cross-modal Fusion Network for Infrared-guided Dense Haze Removal in UAVs</td>
-            <td>ACM MM ‘25</td>
-            <td><a href="https://cis.temple.edu/~jiewu/research/publications/Publication_files/MM_2025_UAV_CR.pdf">Paper</a></td>
         </tr>
         <tr>
             <td>Perception</td>
