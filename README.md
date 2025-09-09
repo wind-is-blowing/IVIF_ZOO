@@ -645,6 +645,20 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
             <td>TIP ‘24</td>
             <td><a href="https://ieeexplore.ieee.org/abstract/document/10794610">Paper</a>/<a href="https://github.com/yuliu316316/VDMUFusion">Code</a></td>
         </tr>
+             <tr>
+           <td>General</td>
+           <td>TC-MoA</td>
+           <td>Task-Customized Mixture of Adapters for General Image Fusion</td>
+           <td>CVPR '24</td>
+           <td><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_Task-Customized_Mixture_of_Adapters_for_General_Image_Fusion_CVPR_2024_paper.html">Paper</a>/<a href="https://github.com/YangSun22/TC-MoA">Code</a></td>
+        </tr>
+        <tr>
+           <td>General</td>
+           <td>SHIP</td>
+           <td>Probing Synergistic High-Order Interaction in Infrared and Visible Image Fusion</td>
+           <td>CVPR '24</td>
+           <td><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Probing_Synergistic_High-Order_Interaction_in_Infrared_and_Visible_Image_Fusion_CVPR_2024_paper.pdf">Paper</a>/<a href="https://github.com/zheng980629/SHIP">Code</a></td>
+        </tr>
     </tbody>
 </table>
 
