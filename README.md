@@ -223,6 +223,20 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
             <td>TIM '22</td>
             <td><a href="https://ieeexplore.ieee.org/abstract/document/9670874/">Paper</a>/<a href="https://github.com/Zhishe-Wang/Res2Fusion">Code</a></td>
         </tr>
+             <tr>
+        <td>Auto-Encoder</td>
+        <td>RPFNet</td>
+        <td>Residual Prior-driven Frequency-aware Network for Image Fusion</td>
+        <td>ACM MM '25</td>
+        <td><a href="https://arxiv.org/abs/2507.06735">Paper</a>/<a href="https://github.com/wang-x-1997/RPFNet">Code</a></td>
+    </tr>
+    <tr>
+        <td>Auto-Encoder</td>
+        <td>TTD</td>
+        <td>Test-Time Dynamic Image Fusion</td>
+        <td>NeurIPS '24</td>
+        <td><a href="https://nips.cc/virtual/2024/poster/95415">Paper</a>/<a href="https://github.com/Yinan-Xia/TTD">Code</a></td>
+    </tr>
         <tr>
             <td>GAN</td>
             <td>FusionGAN</td>
