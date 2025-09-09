@@ -308,6 +308,20 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
             <td>TCSVT '24</td>
             <td><a href="https://ieeexplore.ieee.org/abstract/document/10680110/">Paper</a>/<a href="https://github.com/Zhishe-Wang/FreqGAN">Code</a></td>
         </tr>
+     <tr>
+        <td>GAN</td>
+        <td>DDBF</td>
+        <td>Dispel Darkness for Better Fusion: A Controllable Visual Enhancer based on Cross-modal Conditional Adversarial Learning</td>
+        <td>CVPR '24</td>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Dispel_Darkness_for_Better_Fusion_A_Controllable_Visual_Enhancer_based_CVPR_2024_paper.html">Paper</a>/<a href="https://github.com/HaoZhang1018/DDBF">Code</a></td>
+    </tr>
+    <tr>
+        <td>GAN</td>
+        <td>CCF</td>
+        <td>Conditional Controllable Image Fusion</td>
+        <td>NeurIPS '24</td>
+        <td><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/d99e8e80a6c41e148db686918dd7eab3-Paper-Conference.pdf">Paper</a>/<a href="https://github.com/jehovahxu/CCF">Code</a></td>
+    </tr>
         <tr>
             <td>CNN</td>
             <td>BIMDL</td>
