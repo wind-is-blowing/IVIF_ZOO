@@ -1742,7 +1742,7 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
             <td>DRFusion</td>
             <td>DRFusion: Drift-Resilient Temporally Consistent Infrared-Visible Video Fusion</td>
             <td>ICML '26</td>
-            <td><a href="https://arxiv.org/abs/2605.25775">Paper</a></td>
+            <td><a href="https://arxiv.org/abs/2605.25775">Paper</a>/<a href="https://github.com/Zhaozixiang1228/VF-Bench">Code</a></td>
         </tr>
         <tr>
             <td>USCFNet</td>
