@@ -1729,13 +1729,13 @@ If the M<sup>3</sup>FD and FMB datasets are helpful to you, please cite the foll
         <tr>
             <td>MAVFusion</td>
             <td>MAVFusion: Efficient Infrared and Visible Video Fusion via Motion-Aware Sparse Interaction</td>
-            <td>ECCV '26 (accepted)</td>
+            <td>ECCV '26</td>
             <td><a href="https://arxiv.org/abs/2604.01958">Paper</a>/<a href="https://github.com/ixilai/MAVFusion">Code</a></td>
         </tr>
         <tr>
             <td>One-step Diffusion</td>
             <td>Degradation-Robust and Temporally Consistent Infrared-Visible Video Fusion via One-step Diffusion Framework</td>
-            <td>ECCV '26 (accepted)</td>
+            <td>ECCV '26</td>
             <td><a href="https://eccv.ecva.net/Conferences/2026/Videos">Paper</a></td>
         </tr>
         <tr>
